@@ -50,6 +50,7 @@ header nav ul {
  	background: #242526;
  	margin-bottom: 20px;
 	 color: #fff;
+	 border-radius: 1mm;
  }
 
  aside {
@@ -58,6 +59,7 @@ header nav ul {
  	float: left;
  	padding: 20px;
  	box-sizing:border-box ;
+	 border-radius: 2mm;
  }
 
  footer {
@@ -66,7 +68,12 @@ header nav ul {
  	clear: both;
  	padding:10px 0px ;
  	text-align: center;
+	border-radius: 1mm;
  }
+ 
+ header nav{
+	border-radius: 1mm;/*Opcciones*/
+}
 
 
 
